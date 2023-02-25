@@ -14,6 +14,6 @@ E iniciando o aprendizado em:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 ### Conect-se comigo:
-<a href="https://www.linkedin.com/in/ruth-lopes-diniz/" target="_blank">
+<a href="https://www.linkedin.com/in/ruth-lopes-diniz/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  <a/>
