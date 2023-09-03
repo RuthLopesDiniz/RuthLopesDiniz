@@ -1,4 +1,6 @@
-### Hi there 👋. Bem vindos ao meu GitHub!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5cc3&height=120&section=header"/>
+
+<h1 align="center">Sejam bem vindos ao meu GITHUB!</h1>
 
 <h3>Eu sou a Ruth Diniz, uma programadora Front End. Atualmente estou desenvolvendo projetos com:<h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,5 +29,5 @@
   
  [![Ruth stats](https://github-readme-stats.vercel.app/api?username=RuthLopesDiniz)](https://github.com/anuraghazra/github-readme-stats)
  
- 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5cc3&height=120&section=footer"/>
   
