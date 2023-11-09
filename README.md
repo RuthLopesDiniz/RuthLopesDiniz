@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5cc3&height=120&section=header"/>
 
-<h1 align="center">Sejam bem vindos ao meu GITHUB!</h1>
+<h1 align="center">Sejam bem-vindos ao meu GITHUB!</h1>
 
 <h3>Eu sou a Ruth Diniz, uma programadora Front End. Atualmente estou desenvolvendo projetos com:<h3>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
