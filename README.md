@@ -2,7 +2,7 @@
 
 <h1 align="center">Sejam bem-vindos ao meu GITHUB!</h1>
 
-<h3>Eu sou a Ruth Diniz, uma programadora Front End. Atualmente estou desenvolvendo projetos com:<h3>
+<h3>👋 &nbsp; Eu sou a Ruth Diniz, uma programadora Front End. Atualmente estou desenvolvendo projetos com:<h3>
 <br>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
